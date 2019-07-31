@@ -1,0 +1,145 @@
+
+
+#Title2
+{
+    margin-right: 2ch;
+    margin-left: 3.2ch;
+    margin-top: 2.5ch;
+    margin-bottom: 1.89ch;
+    color: #1d1d1d;
+    cursor: pointer;
+    font-size: 0.59cm;
+    display: inline-block;
+}
+
+#textFi
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.69cm;
+    width: 80%px;
+    height: 80%px;
+    background-color: rgb(11, 126, 97);
+    margin-left: 2cm;
+    text-align: left;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px rgba(36, 238, 9, 0.5);
+
+}
+#textSe
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.69cm;
+    width: 80%;
+    height: 80%;
+    background-color: rgb(11, 126, 97);
+    margin-left: 2cm;
+    text-align: left;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px rgba(36, 238, 9, 0.5);    margin-top: 2cm;
+    margin-bottom: 2cm;
+}
+
+
+#textTh
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.69cm;
+    width: 80%px;
+    height: 80%px;
+    background-color: rgb(11, 126, 97);
+    margin-left: 2cm;
+    text-align: left;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px rgba(36, 238, 9, 0.5);
+}
+
+#Picture5
+{
+    margin: 0 auto;
+}
+
+#Picture6
+{
+     
+
+    top: 7vw;
+    right: 9vh;
+
+}
+#Media1
+{
+    margin-left: 5cm;
+    border-radius: 20px;
+}
+
+#Media2
+{
+    margin-left: 7cm;
+    position: absolute;
+    top: 234vw;
+    left: 250vh;
+    margin-left: 44vh;
+    border-radius: 20px;
+}
+#Media3
+{
+    position: absolute;
+    top: 2697.05px;
+    left: 766px;
+    border-radius: 20px;
+}
+#Media4
+{
+    margin-top: 2ch;
+    border-radius: 20px;
+    margin-left: 27vh;
+}
+#Media5
+{
+    margin-left: 44vh;
+    margin-top: 2ch;
+    border-radius: 20px;
+}
+#Media6
+{
+    position: absolute;
+    top: 3065.05px;
+    left: 769px;
+    border-radius: 20px;
+}
+#Media7
+{
+    position: absolute;
+    top:3380px;
+    left: 320px;
+    margin-top: 2ch;
+    border-radius: 20px;
+}
+#Media8
+{
+    position: absolute;
+    top: 3380px;
+    left: 769px;
+    margin-top: 2ch;
+    border-radius: 20px;
+}
+#Media9
+{
+    border-radius: 20px;
+}
+#Mediafinal
+{
+    margin-left: 20cm;
+}
+#Final3
+{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: forestgreen;
+    margin-left: 4cm;
+    font-size: 1cm;
+    top: 600vh;
+    left: 25vw;
+}
