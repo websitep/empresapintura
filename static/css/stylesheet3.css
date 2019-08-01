@@ -28,6 +28,21 @@
 {
     margin-top: 1.5cm;
 }
+body div header nav ul li
+{
+    font-size: 3vw;
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 16.56vw;
+    font-family: fantasy;
+    padding: 5px;
+    transition: all 0.5s linear;
+    -webkit-transition:all 0.5s linear;
+    -moz-transition: all 0.5s linear;
+    -o-transition: all 0.5s linear;
+
+
+}
 
 #Picture6
 {
